@@ -7,3 +7,4 @@
 ##[Hidden files](5-listfilesdigitonly)
 ##[welcome](my_first_directory)
 ##[Betty in my first dir](7-movethatfile)
+##[Bye bye Betty](8-firstdelete)
