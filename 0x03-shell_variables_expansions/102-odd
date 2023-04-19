@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -1 | awk 'NR%2==1 {print $0}'
+paste - - | cut -d$'\t' -f1
